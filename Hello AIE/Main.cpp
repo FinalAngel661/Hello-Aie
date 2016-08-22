@@ -7,6 +7,6 @@
 int main()
 {
 	printf("Hello this is patrick and I am not a krusty krab");
-
+	// hkjgjkgkjhgkj
 	getchar();
 }
