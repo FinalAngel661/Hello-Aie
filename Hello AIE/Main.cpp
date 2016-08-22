@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Hello this is patrick and I am not a krusty krab");
-	// hkjgjkgkjhgkj
+	printf("No this is patrick!");
+	
 	getchar();
 }
